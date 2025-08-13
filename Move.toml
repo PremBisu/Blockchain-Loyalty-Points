@@ -1,0 +1,15 @@
+[package]
+name = "Blockchain-Loyalty-Points"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = '0xd88069a3ae3cba2d490c9984b391a6bab629d2783c431e162a414f5f87edc691'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
