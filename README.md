@@ -1,4 +1,4 @@
----
+
 
 # **Blockchain Loyalty Points – Aptos Move Smart Contract**
 
